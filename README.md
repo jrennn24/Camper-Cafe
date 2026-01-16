@@ -1,4 +1,4 @@
-# Cafe Menu
+# Camper Cafe Menu
 
 This project is a simple **cafe menu web page** built to demonstrate basic HTML and CSS skills.  
 It showcases a structured layout of menu items with categories, prices, and simple styling.
@@ -14,8 +14,8 @@ It showcases a structured layout of menu items with categories, prices, and simp
 - CSS
 
 ## Learning Goals
-- Practice HTML structure (lists, headings, divs, semantic tags)
-- Learn basic CSS styling (colors, fonts, spacing, layout)
+- Practice HTML structure
+- Learn basic CSS styling
 - Build a simple, visually organized web page
 
 ## Credits
